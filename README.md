@@ -12,6 +12,14 @@
 3. 进入 Rainbow-Fart 首页 (127.0.0.1:7777) ，点击导入(import)按钮。
 4. 选择.zip压缩包导入即可。
 
+## Java版使用方法
+😀增加了Java中关键字的响应😀
+1. 下载并启用 Rainbow-Fart 插件，见[该页面](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
+2. 下载[马保国语音包](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85.zip)
+3. 将语音包中的manifest.json删除，改manifest-java.json文件名为manifest.json即可
+3. 进入 Rainbow-Fart 首页 (127.0.0.1:7777) ，点击导入(import)按钮。
+4. 选择.zip压缩包导入即可。
+
 ## 语音
 - `__main__`
     + 呃朋友们好啊
