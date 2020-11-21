@@ -1,7 +1,7 @@
 # Rainbow-Fart 马保国语音包
 
 [VSCode Rainbow-Fart](https://github.com/saekiraku/vscode-rainbow-fart)
-插件马保国语音包，目前支持 Python 关键词。
+插件马保国语音包，目前支持 Python 与Java关键词。
 
 程序员要讲码德，耗子尾汁，好好反思！
 
