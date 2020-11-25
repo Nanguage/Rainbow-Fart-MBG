@@ -5,24 +5,21 @@
 
 程序员要讲码德，耗子尾汁，好好反思！
 
+[视频演示(bilibili)](https://www.bilibili.com/video/BV1Q5411V7ue)
+
 ## 使用方法
 
 1. 下载并启用 Rainbow-Fart 插件，见[该页面](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
-2. 下载[马保国语音包](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85.zip)
-3. 进入 Rainbow-Fart 首页 (127.0.0.1:7777) ，点击导入(import)按钮。
-4. 选择.zip压缩包导入即可。
-
-## Java版使用方法
-😀增加了Java中关键字的响应😀
-1. 下载并启用 Rainbow-Fart 插件，见[该页面](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
-2. 下载马保国语音包Java
-3. 将语音包中的manifest.json删除，改manifest-java.json文件名为manifest.json即可
+2. 下载语音包
+    + [Python](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85.zip)
+    + [Java](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85Java.zip)
+    + [CPP](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BDcpp.zip)
 3. 进入 Rainbow-Fart 首页 (127.0.0.1:7777) ，点击导入(import)按钮。
 4. 选择.zip压缩包导入即可。
 
 ### 注意 Json文件格式不正确会导致找不到该文件，如报错，请认真检查，谢谢朋友们😂
 
-## 语音
+## 语音 (Python版本示例)
 - `__main__`
     + 呃朋友们好啊
     + 我是浑元形意太极门掌门人马保国
