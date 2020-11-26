@@ -1,0 +1,248 @@
+{
+    "name": "MaBaoGuo",
+    "display-name": "马保国语音包 (ZH)",
+    "version": "0.0.1",
+    "avatar": "avatar.png",
+    "avatar-dark":"avatar.png",
+    "author": "vaecebyz",
+    "gender": "male",
+    "locale": "zh",
+    "description": "程序员要耗子尾汁，好好编程",
+    "languages": [
+        "Go"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["main"],
+        	"voices": [
+				"我是浑元形意太极门掌门人马保国.mp3"
+        	]
+        },
+		{
+        	"keywords": [":=","var","const","map"],
+        	"voices": [
+				"呃朋友们好啊.mp3"
+        	]
+        },
+        {
+        	"keywords": "return",
+        	"voices": [
+				"耗子尾汁好好反思.mp3"
+        	]
+        },
+		{
+        	"keywords": "//",
+        	"voices": [
+				"我劝.mp3"
+        	]
+        },
+        {
+        	"keywords": "if",
+        	"voices": [
+				"如果我这一拳发力.mp3"
+        	]
+		},
+		{
+        	"keywords": "else",
+        	"voices": [
+				"一拳就把他鼻子打骨折了.mp3"
+        	]
+		},
+		{
+        	"keywords": "switch",
+        	"voices": [
+				"刚才有个朋友问我马老师发生甚么事了.mp3"
+        	]
+		},
+		{
+        	"keywords": "case",
+        	"voices": [
+				"一个右鞭腿.mp3",
+				"一个左刺拳.mp3",
+				"一个左正蹬.mp3"
+        	]
+        },
+		{
+        	"keywords": "default",
+        	"voices": [
+				"我说停停.mp3"
+        	]
+        },
+        {
+        	"keywords": ["true","==","="],
+        	"voices": [
+				"我说我这个有用.mp3"
+        	]
+		},
+		{
+        	"keywords": "interface",
+        	"voices": [
+				"我说可以.mp3"
+        	]
+		},
+		{
+        	"keywords": "false",
+        	"voices": [
+				"他说你这个没用.mp3",
+				"这好吗这不好.mp3"
+        	]
+		},
+		{
+        	"keywords": ["nil"],
+        	"voices": [
+				"不讲武德.mp3"
+        	]
+		},
+		{
+        	"keywords": ["func","cap","struct"],
+        	"voices": [
+				"浑元功法.mp3"
+        	]
+		},
+        {
+        	"keywords": "_",
+        	"voices": [
+				"传统功夫是讲化劲儿的四两拨千斤.mp3",
+				"我全部防出去防出去了啊.mp3",
+				"这是化劲儿.mp3"
+        	]
+		},
+		{
+        	"keywords": "import",
+        	"voices": [
+				"啊看来是有备而来.mp3"
+        	]
+		},
+		{
+        	"keywords": "goto",
+        	"voices": [
+				"有备而来.mp3"
+        	]
+		},
+		{
+        	"keywords": ["select","copy","append"],
+        	"voices": [
+				"来骗来偷袭.mp3"
+        	]
+		},
+		{
+        	"keywords": ["break"],
+        	"voices": [
+				"我说停停.mp3"
+        	]
+		},
+		{
+        	"keywords": "<-",
+        	"voices": [
+				"他说要和我试试.mp3"
+        	]
+		},
+		{
+        	"keywords": "range",
+        	"voices": [
+				"他说要和我试试.mp3"
+        	]
+		},
+		{
+			"keywords": ["[","{"],
+			"voices": [
+				"一个左刺拳.mp3"
+			]
+		},
+		{
+			"keywords": ["\\","%"],
+			"voices": [
+				"然后上来就是.mp3"
+			]
+		},
+		{
+			"keywords": [",","]", "}"],
+			"voices": [
+				"一个右鞭腿.mp3",
+				"一个左正蹬.mp3",
+				"一个左刺拳.mp3"
+			]
+		},
+		{
+			"keywords": ["package","make","new"],
+			"voices": [
+				"我69岁的老同志.mp3",
+				"二百多斤的英国大力士.mp3"
+			]
+		},
+		{
+			"keywords": ["type","chan"],
+			"voices": [
+				"他说他是乱打的他可不是乱打的啊.mp3"
+			]
+		},
+		{
+			"keywords": "continue",
+			"voices": [
+				"传统功夫宜点到为止.mp3",
+				"按传统功夫的点到为止他已经输了.mp3"
+			]
+		},
+		{
+			"keywords": ["for","close"],
+			"voices": [
+				"很快啊.mp3"
+			]
+		},
+		{
+			"keywords": "fmt",
+			"voices": [
+				"很快啊.mp3",
+				"如果我这一拳发力.mp3"
+			]
+		},
+		{
+			"keywords": "Print",
+			"voices": [
+				"不要搞窝里斗.mp3"
+			]
+		},
+		{
+			"keywords": "bool",
+			"voices": [
+				"我说怎么回事.mp3"
+			]
+		},
+		{
+			"keywords": "byte",
+			"voices": [
+				"我说我这个有用.mp3"
+			]
+		},
+		{
+			"keywords": "iota",
+			"voices": [
+				"传统功夫是讲化劲儿的四两拨千斤.mp3"
+			]
+		},
+		{
+			"keywords": ["len","go"],
+			"voices": [
+				"这是化劲儿.mp3"
+			]
+		},
+		{
+        	"keywords": "defer",
+        	"voices": [
+				"他说要和我试试.mp3"
+        	]
+		},
+		{
+        	"keywords": "err",
+        	"voices": [
+				"我大意了啊没有闪.mp3"
+        	]
+		},
+		{
+        	"keywords": "recover",
+        	"voices": [
+				"我说小伙子你不讲武德.mp3"
+        	]
+		}
+    ]
+}
