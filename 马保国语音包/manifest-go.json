@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "avatar": "avatar.png",
     "avatar-dark":"avatar.png",
-    "author": "vaecebyz",
+    "author": "vaecebyZ",
     "gender": "male",
     "locale": "zh",
     "description": "程序员要耗子尾汁，好好编程",
@@ -215,7 +215,7 @@
 			]
 		},
 		{
-			"keywords": "iota",
+			"keywords": ["iota","*"],
 			"voices": [
 				"传统功夫是讲化劲儿的四两拨千斤.mp3"
 			]
@@ -239,7 +239,7 @@
         	]
 		},
 		{
-        	"keywords": "recover",
+        	"keywords": ["recover","&","..."],
         	"voices": [
 				"我说小伙子你不讲武德.mp3"
         	]
