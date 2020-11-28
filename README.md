@@ -16,6 +16,7 @@
     + [CPP](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BDcpp.zip)
     + [JavaScript](https://raw.githubusercontent.com/Nanguage/Rainbow-Fart-MBG/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85js.zip)
     + [Go](https://raw.githubusercontent.com/Nanguage/Rainbow-Fart-MBG/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85Go.zip)
+    + [Objective-C](https://raw.githubusercontent.com/Nanguage/Rainbow-Fart-MBG/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85oc.zip)
 3. 进入 Rainbow-Fart 首页 (127.0.0.1:7777) ，点击导入(import)按钮。
 4. 选择.zip压缩包导入即可。
 
