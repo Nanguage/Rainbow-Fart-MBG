@@ -9,7 +9,9 @@
 
 ## 使用方法
 
-1. 下载并启用 Rainbow-Fart 插件，见[该页面](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
+1. 下载并启用 Rainbow-Fart 插件
+ + [Visual Studio Code](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
+ + [IntelliJ IDEA](https://github.com/izhangzhihao/intellij-rainbow-fart)
 2. 下载语音包
     + [Python](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85.zip)
     + [Java](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85Java.zip)
