@@ -243,6 +243,12 @@
         	"voices": [
 				"我说小伙子你不讲武德.mp3"
         	]
-		}
+		},
+		{
+            "keywords": ["$time_each_hour"],
+            "voices": [
+                "停停不要颈椎练坏了.mp3"
+            ]
+        }
     ]
 }
