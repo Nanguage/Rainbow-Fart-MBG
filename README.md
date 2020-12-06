@@ -11,7 +11,8 @@
 
 1. 下载并启用 Rainbow-Fart 插件
  + [Visual Studio Code](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/#%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8)
- + [IntelliJ IDEA](https://github.com/izhangzhihao/intellij-rainbow-fart)
+ + [IntelliJ IDEA](https://github.com/izhangzhihao/intellij-rainbow-fart) *注意，IntelliJ IDEA版本需要参考[这个文档](https://github.com/izhangzhihao/intellij-rainbow-fart/blob/master/README.zh.md#自定义语音包)导入语音包。*
+ 
 2. 下载语音包
     + [Python](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85.zip)
     + [Java](https://github.com/Nanguage/Rainbow-Fart-MBG/raw/main/%E9%A9%AC%E4%BF%9D%E5%9B%BD%E8%AF%AD%E9%9F%B3%E5%8C%85Java.zip)
